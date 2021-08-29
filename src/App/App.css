@@ -1,0 +1,23 @@
+body {
+    background-color:black;
+    color: white;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.footer
+{
+    
+        margin-top: 20px;
+        padding: 20px;
+        color: white;
+        background-color:#e8491d ;
+        text-align: center;
+    
+    
+    
+}
+
+.fa
+{
+  margin: 5px;
+}
